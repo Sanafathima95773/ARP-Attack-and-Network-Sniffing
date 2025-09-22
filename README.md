@@ -1,5 +1,5 @@
-## Name: AMIRTHVARSHINI V
-## REG NO: 212223040014
+## Name: Sana Fathima H
+## REG NO: 212223240145
 # ARP-Attack-and-Network-Sniffing
 # Explore Network Sniffing and ARP Attacks
 
